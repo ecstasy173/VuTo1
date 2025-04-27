@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duong\\source\\repos\\VuTo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\controllers\\imagesearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\controllers\\imagesearchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\implements\\googleimagesearcher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\implements\\googleimagesearcher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\model\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\implements\\googleimagesearcherhaloli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\implements\\googleimagesearcherhaloli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\implements\\googleimagesearcherproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\implements\\googleimagesearcherproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\interface\\igoogleimagesearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\interface\\igoogleimagesearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\model\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\model\\userdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\model\\googlesearchoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\model\\googlesearchoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|c:\\users\\duong\\source\\repos\\vuto\\vuto\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFD0285-C65A-4DC0-B533-501A68A80789}|VuTo\\VuTo.csproj|solutionrelative:vuto\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "VuTo\\Model\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\TokenResponse.cs",
+              "RelativeToolTip": "VuTo\\Model\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:36:11.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "VuTo\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:31:42.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Implements\\UserService.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\UserService.cs",
+              "RelativeToolTip": "VuTo\\Services\\Implements\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:55:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleImageSearcher .cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcher .cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Implements\\GoogleImageSearcher .cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcher .cs",
+              "RelativeToolTip": "VuTo\\Services\\Implements\\GoogleImageSearcher .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:15:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageSearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Controllers\\ImageSearchController.cs",
+              "RelativeDocumentMoniker": "VuTo\\Controllers\\ImageSearchController.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Controllers\\ImageSearchController.cs",
+              "RelativeToolTip": "VuTo\\Controllers\\ImageSearchController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:35:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VuTo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VuTo\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:59:04.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGoogleImageSearcher.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Interface\\IGoogleImageSearcher.cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Interface\\IGoogleImageSearcher.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Interface\\IGoogleImageSearcher.cs",
+              "RelativeToolTip": "VuTo\\Services\\Interface\\IGoogleImageSearcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:13:33.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleImageSearcherProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcherProxy.cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Implements\\GoogleImageSearcherProxy.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcherProxy.cs",
+              "RelativeToolTip": "VuTo\\Services\\Implements\\GoogleImageSearcherProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:03:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Program.cs",
+              "RelativeDocumentMoniker": "VuTo\\Program.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Program.cs",
+              "RelativeToolTip": "VuTo\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:52:42.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoogleImageSearcherHaloli.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcherHaloli.cs",
+              "RelativeDocumentMoniker": "VuTo\\Services\\Implements\\GoogleImageSearcherHaloli.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Services\\Implements\\GoogleImageSearcherHaloli.cs",
+              "RelativeToolTip": "VuTo\\Services\\Implements\\GoogleImageSearcherHaloli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T18:59:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GoogleSearchOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\GoogleSearchOptions.cs",
+              "RelativeDocumentMoniker": "VuTo\\Model\\GoogleSearchOptions.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\GoogleSearchOptions.cs",
+              "RelativeToolTip": "VuTo\\Model\\GoogleSearchOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T14:18:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\User.cs",
+              "RelativeDocumentMoniker": "VuTo\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\User.cs",
+              "RelativeToolTip": "VuTo\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:16:40.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\UserDetailViewModel.cs",
+              "RelativeDocumentMoniker": "VuTo\\Model\\UserDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\Model\\UserDetailViewModel.cs",
+              "RelativeToolTip": "VuTo\\Model\\UserDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:18:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\appsettings.json",
+              "RelativeDocumentMoniker": "VuTo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Duong\\source\\repos\\VuTo\\VuTo\\appsettings.json",
+              "RelativeToolTip": "VuTo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T03:22:04.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
